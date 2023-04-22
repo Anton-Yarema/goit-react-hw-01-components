@@ -1,0 +1,33 @@
+.stats {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: ghostwhite;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.name {
+  font-size: 26px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 240px;
+}
+
+.profile {
+  margin: 0 auto;
+  width: 500px;
+  height: auto;
+}
+
+.label {
+  display: flex;
+  margin-bottom: 10px;
+}
